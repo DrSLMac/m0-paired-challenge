@@ -1,4 +1,4 @@
-# H1 Book Titles
+# Book Titles
 
 1. Money for the Rest of Us
 2. The Simple Path

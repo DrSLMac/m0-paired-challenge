@@ -7,5 +7,4 @@
 5. Apples Never Fall
 
 
-This was really done more individually while consulting each other as needed.
-We both worked well but I was slower, just remembering the commands and trying to keep from getting confused on what I am doing.
+This was a redo of the file and paired challenge for me. I found the first time to be very challenging, as I flustered and felt pressed for time. So I wanted to walk back through the steps and remember what I have learned so far. Writing out the steps, filling in the blanks for what exactly needs to be done for the challenge really helped me this time. 
